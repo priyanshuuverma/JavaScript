@@ -1,0 +1,6 @@
+lets assume a menu card having lots of food items in it, so a waiter can bring those things that are written on menu card.
+similarly the server will listen or work for those endpoint listed in api.
+
+  menu card == api
+and
+  food items == endpoint
